@@ -1,0 +1,12 @@
+--- !ruby/object:Hangman
+used_guesses:
+- a
+remaining_guesses: 6
+display_word:
+- _
+- _
+- _
+- _
+- _
+- a
+word: elodea
