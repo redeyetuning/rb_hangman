@@ -3,10 +3,15 @@ used_guesses:
 - a
 remaining_guesses: 6
 display_word:
+- a
+- _
+- _
 - _
 - _
 - _
 - _
 - _
 - a
-word: elodea
+- _
+- _
+word: aristocracy
